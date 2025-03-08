@@ -11,6 +11,6 @@ Este proyecto es una aplicación web simple para realizar sorteos de "Amigo Secr
 
 ## 📦 Instalación y Uso
 
-1. Clona este repositorio en tu máquina local:
-   ```sh
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+1. Sitio web  para visualizar
+     ```sh
+   https://rrgomez0.github.io/Amigo-Secreto/
